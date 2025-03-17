@@ -176,3 +176,5 @@ cython_debug/
 /cudnn-linux-x86_64-9.8.0.87_cuda12-archive
 /flaws_cloudtrail_logs
 /logs
+*.png
+*.txt
